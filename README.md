@@ -1,4 +1,4 @@
-# test_task1
+# Simple photo gallery as test task
 
 A new Flutter application.
 
